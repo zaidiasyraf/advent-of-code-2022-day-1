@@ -31,9 +31,6 @@ public class Main {
                     }
                     currentTotal = 0;
                 }
-                if (biggestTotalSoFar > 0 && secondBiggestTotalSoFar > 0 && thirdBiggestTotalSoFar > 0) {
-                    int k = 0;
-                }
                 // read next line
                 line = reader.readLine();
             }
